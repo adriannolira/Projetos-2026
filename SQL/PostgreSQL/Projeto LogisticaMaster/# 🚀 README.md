@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para simular a análise de dados de uma empresa de
 ## 🛠️ Tecnologias Utilizadas
 * **Excel:** Limpeza inicial e estruturação dos dados.
 * **PostgreSQL:** Processamento de grandes volumes, cálculos de SLA e agregações.
-* **Power BI:** Visualização de indicadores de performance (Em breve).
+* **Power BI:** Modelagem de dados em Star Schema, criação de medidas dinâmicas em DAX e visualização de KPIs de faturamento e performance por vendedor.
 
 ## 📊 Problemas de Negócio Resolvidos
 1. **Faturamento por Cliente:** Identificação de quanto cada cliente gera de receita vs. pedidos pendentes.
