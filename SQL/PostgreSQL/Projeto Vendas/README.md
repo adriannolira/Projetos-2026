@@ -1,4 +1,7 @@
 📊 Projeto Vendas: Modelagem Relacional & Dashboard
+
+🔗 Acesse a Versão Interativa no meu Portfólio (https://adriano-lira-showcase.lovable.app/)
+
 📝 Descrição
 Este projeto foca na transição de uma estrutura de dados plana (flat table) para um Modelo Relacional (Star Schema). O objetivo principal foi garantir a integridade dos dados e a escalabilidade da análise de vendas utilizando IDs únicos para produtos e vendedores, eliminando redundâncias e erros de digitação.
 
